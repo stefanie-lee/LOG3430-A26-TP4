@@ -36,4 +36,4 @@ jobs:
       - name: Run tests
         run: pytest
 
-// Modifications au yaml fait par Stefanie Lee Milczarek, 2354949
+# Modifications au yaml fait par Stefanie Lee Milczarek, 2354949
